@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 # converts files in metadata to pdf using WikiVim and pandoc
+# Author: felix
 
 files="$(ls ./metadata)"
 
