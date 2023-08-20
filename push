@@ -1,0 +1,6 @@
+#!/bin/env bash
+# faster github pusher
+
+git add .
+git commit -m "$1"
+git push
